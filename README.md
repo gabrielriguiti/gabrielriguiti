@@ -30,6 +30,7 @@ Trabalho **um projeto por vez, público desde o primeiro commit, e só começo o
 | Projeto | O que demonstra | Estado |
 | --- | --- | --- |
 | [finance-mcp](https://github.com/gabrielriguiti/finance-mcp) | Servidor MCP de finanças pessoais sobre SQLite — protocolo MCP, design de assinatura de tools, TypeScript | ✅ concluído |
+| [busca-hibrida-produtos](https://github.com/gabrielriguiti/busca-hibrida-produtos) | Motor de busca de produtos: fonética → vetorial → híbrida (RRF), avaliado com Recall@10/MRR@10 reais — Postgres/pgvector, embeddings em processo (DJL/ONNX), Spring Boot, React | ✅ concluído |
 | `conciliador` | Conciliação bancária em Java/Spring — arquitetura em camadas, matcher N:1 com subset-sum e poda, testes | ⏳ próximo |
 | `conciliador-dashboard` | Dashboard em React sobre a API do Conciliador — consumo de API tipada, revisão de conciliações ambíguas | ⏳ planejado |
 | `extrato-mobile` | App em React Native/Expo, dados locais — craft de UI mobile | ⏳ planejado |

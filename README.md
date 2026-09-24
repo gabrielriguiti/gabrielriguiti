@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
@@ -21,9 +22,7 @@
 
 ---
 
-Trabalho **um projeto por vez, público desde o primeiro commit, e só começo o próximo quando o anterior está `done`.** Este perfil é o registro disso — sem enfeite, atualizado conforme cada fase realmente termina.
-
-🔭 **Agora:** Fase 1 concluída (`finance-mcp`) — próxima parada é o `conciliador`.
+🔭 **Agora:** Fase 2 concluída (`busca-hibrida-produtos`) — próxima parada é o `conciliador`.
 
 ## Projetos
 
